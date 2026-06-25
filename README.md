@@ -1,16 +1,14 @@
 # Hi there, I'm Shubham Shinde! 👋
 
 ### 🚀 Full-Stack Software Engineer & Problem Solver
-I build scalable web applications, engineer efficient backend systems, and love solving complex algorithmic challenges. Focused on writing clean, maintainable code and delivering exceptional user experiences.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-* **Languages:** JavaScript, Java, Python, C++, SQL, HTML5, CSS3
-* **Frameworks & Libraries:** Spring Boot, Spring AI, Thymeleaf, React.js, Tailwind CSS
-* **Databases & Cloud:** MongoDB, Qdrant DB, MySQL, AWS, Azure
-* **DevOps & Tools:** Git, GitHub, Docker, Postman, Linux
+I'm a Java & Spring Boot developer with 2+ years of experience building and deploying 
+enterprise-scale systems. I've architected and shipped a live Azure-deployed invoice 
+tracking platform for a Maharashtra state utility (MSETCL) — processing 50K+ invoices 
+worth ₹1,151 Cr across 11,000+ vendors. Beyond backend engineering, I actively explore 
+the AI/GenAI space: I've built RAG pipelines, integrated LLMs via Spring AI, worked with 
+tool-calling (MCP) frameworks, and run local models using Ollama with Qdrant for vector 
+storage. I hold certifications in Azure (AZ-900) and OCI Generative AI, and I care about 
+writing clean, production-ready code backed by CI/CD, observability, and security best practices.
 
 ---
 
