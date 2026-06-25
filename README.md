@@ -1,56 +1,50 @@
-# Hi there, I'm Shubham Shinde 👋🚀
+# Hi there, I'm Shubham Shinde! 👋
 
-### Java & Spring Boot Developer | Azure & OCI GenAI Certified
-
-I am a passionate **Software Developer** with 2+ years of experience specializing in building robust, enterprise-scale backend systems using **Java & Spring Boot**, alongside cloud-native deployments on **Azure** and **AWS**. 
-
-Lately, I’ve been deep-diving into the intersection of Enterprise Java and Artificial Intelligence—building production-grade applications with **Spring AI**, **RAG (Retrieval-Augmented Generation)**, **Vector Databases**, and **Model Context Protocol (MCP)** framework integrations.
+### 🚀 Full-Stack Software Engineer & Problem Solver
+I build scalable web applications, engineer efficient backend systems, and love solving complex algorithmic challenges. Focused on writing clean, maintainable code and delivering exceptional user experiences.
 
 ---
 
-## 🛠️ My Tech Stack
+### 🛠️ Tech Stack & Tools
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Java 17, SQL, JavaScript, HTML5, CSS3 |
-| **Frameworks** | Spring Boot, Spring Security, Spring AI, Hibernate/JPA, React.js, Thymeleaf |
-| **AI & Generative AI** | OpenAI, LLMs, RAG, Prompt Engineering, Qdrant, Tool Calling, MCP, Ollama |
-| **Cloud & DevOps** | Azure (AZ-900), AWS (EC2, S3, RDS, Beanstalk), Docker, Linux (RHEL), GitHub Actions |
-| **Security & Practices** | JWT, OAuth2, RBAC, Microservices, Redis, REST APIs, Agile/Scrum |
-| **Monitoring** | Prometheus, Grafana, OpenTelemetry |
+* **Languages:** JavaScript, TypeScript, Python, C++, SQL, HTML5, CSS3
+* **Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, Tailwind CSS
+* **Databases & Cloud:** MongoDB, PostgreSQL, MySQL, Firebase, AWS
+* **DevOps & Tools:** Git, GitHub, Docker, Postman, Linux
 
 ---
 
-## 📈 Featured Projects
+### 🎯 Professional Highlights & Experience
 
-### 💼 [Bill Tracking System (BTS)](https://bts.mahatransco.in)
-* **Client:** Maharashtra State Electricity Transmission Co. Ltd. (MSETCL)
-* **Impact:** Architected and deployed a live, enterprise-scale invoice tracking platform processing **50K+ invoices worth ₹1,151 Cr** across 11K+ vendors.
-* **Key Work:** Engineered secure SAP API integrations, multi-level approval workflows, and automated CI/CD deployments via GitHub Actions on Azure.
-* **Tech Stack:** `Spring Boot`, `Spring Security`, `SQL`, `Azure`, `Linux (RHEL)`, `Thymeleaf`
-
-### 🤖 [AI-Powered Multi-Modal Platform](https://github.com/dev-shubhamshinde/springAI-using-ollama)
-* **Overview:** A comprehensive AI suite exploring local models, tool calling frameworks, and vector embeddings.
-* **Key Work:** Features a document RAG system, text-to-image generation, and real-time audio workflows. Built a custom tool-calling framework utilizing Model Context Protocol (MCP) using Ollama for local LLMs and Qdrant for vector storage.
-* **Tech Stack:** `Spring AI`, `Ollama`, `Qdrant`, `MCP (Tool Calling)`, `Apache Tika`, `REST APIs`
+* **[Your Current/Most Recent Role]** at *[Company/Project Name]*
+  * Engineered [mention a feature, e.g., a real-time analytics dashboard] improving performance by X%.
+  * Optimized API end-points using Node.js and Express, reducing database query latencies.
+* **Open Source & Personal Engineering**
+  * Developed and deployed production-grade full-stack applications.
+  * Active problem solver with a deep focus on Data Structures & Algorithms.
 
 ---
 
-## 🏅 Certifications & Education
+### 📂 Featured Repositories
 
-* **Oracle:** OCI 2025 Certified Generative AI Professional 
-* **Microsoft:** Certified Azure Fundamentals (AZ-900) 
-* **Education:** Master of Computer Applications (MCA) | MIT World Peace University, Pune (CGPA: 9.36/10)
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **🔗 [Project 1 Name](https://github.com/dev-shubhamshinde/your-repo-1)** | React, Node.js, MongoDB | A comprehensive project management platform featuring real-time updates. |
+| **🔗 [Project 2 Name](https://github.com/dev-shubhamshinde/your-repo-2)** | Python, TypeScript | An AI-powered utility system utilizing secure data handling and RESTful APIs. |
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-shubhamshinde&show_icons=true&theme=dark" alt="Shubham's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shubhamshinde&theme=dark" alt="Shubham's Streak Stats" height="180px" />
+</p>
 
 ---
 
-## 📬 Connect With Me
+### 🌐 Connect With Me
 
-Let's build something scalable or talk about the future of AI backend architectures!
-
-* 💼 **LinkedIn:** [shubham-a-shinde](https://www.linkedin.com/in/shubham-a-shinde)
-* 📧 **Email:** [shubhamshinde9530@gmail.com](mailto:shubhamshinde9530@gmail.com)
-* 📱 **Phone:** +91 7774882080
-
----
-⚡ *Fun Fact: I bridge the gap between traditional enterprise Java architectures and modern GenAI capabilities.*
+* **LinkedIn:** [linkedin.com/in/your-profile-username](https://linkedin.com)
+* **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
+* **Email:** [your.email@example.com](mailto:your.email@example.com)
